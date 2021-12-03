@@ -4,9 +4,7 @@
 
 ## SHA256 hash algorithms.
 
-# Recalls the online bid method discussed in the lecture
-
-# Security in Computing
+# Online bid method discussed in the lecture
 
 Example of SHA256 forward attack using a list of known hashes indexed by position
 
