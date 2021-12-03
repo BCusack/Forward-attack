@@ -1,8 +1,6 @@
 ## Lectorial 2 - Security in Computing
 
-## Python 3 code to demonstrate
-
-## SHA256 hash algorithms.
+## Python 3 code to demonstrate SHA256 hash algorithms.
 
 # Online bid method discussed in the lecture
 
