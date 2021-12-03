@@ -9,8 +9,8 @@
 Example of SHA256 forward attack using a list of known hashes indexed by position
 
 - Range is the known list of values
-- Bob's bid Hash is the hash to be cracked
-- Get Bob's Hash or use genrator online https://passwordsgenerator.net/sha256-hash-generator/
+- Alice's bid Hash is the hash to be cracked
+- Get Alice's Hash or use genrator online https://passwordsgenerator.net/sha256-hash-generator/
 - Paste into the hash checker
 
 Create a list of known hashes in range
