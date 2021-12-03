@@ -44,7 +44,7 @@ def run(createStore):
     store_list = createStore(input_start, input_end)
     print('Copy and paste the hash of the number or and hash you want to check')
     print(hashlib.sha256(str(input_number).encode('utf-8')).hexdigest())
-    input_hash = str(input("Enter Bob's Hash: "))
+    input_hash = str(input("Enter Bob's Hash: ")).lower()
     return input_start, store_list, input_hash
 
 
